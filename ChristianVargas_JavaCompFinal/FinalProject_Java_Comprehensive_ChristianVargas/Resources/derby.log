@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mon Sep 04 22:31:37 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015e-5085-c421-0000013ede05 
+on database directory D:\UCSC Extension Sillicon Valley\Java Beginners\New folder\FinalProject_Java_Comprehensive_ChristianVargas\Resources\RunnersDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/D:/UCSC%20Extension%20Sillicon%20Valley/Java%20Beginners/New%20folder/FinalProject_Java_Comprehensive_ChristianVargas/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=D:\UCSC Extension Sillicon Valley\Java Beginners\New folder\FinalProject_Java_Comprehensive_ChristianVargas
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Sep 04 22:31:38 PDT 2017:
+Shutting down instance a816c00e-015e-5085-c421-0000013ede05 on database directory D:\UCSC Extension Sillicon Valley\Java Beginners\New folder\FinalProject_Java_Comprehensive_ChristianVargas\Resources\RunnersDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
